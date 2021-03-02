@@ -1,0 +1,13 @@
+<1> You can search
+	- by Name
+	- by Month
+	- by Year
+	- by Director
+	- by Film Production Company Name
+	- by a piece of ANY word
+	
+	E.g., 
+	Marvel <--- This will fetch all movies by Marvel.
+	Iron Man <--- This will fetch all Iron Man movies.
+	Cartoon <-- This will fetch all 2D/3D cartoons.
+	Mockingjay <-- The movie name is "Hunger Games" and you know a piece of word.

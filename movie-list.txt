@@ -1,0 +1,35 @@
+~/MCU/1. Phase One/Iron Man # (May 2, 2008) # Marvel Cinematic Universe, Robert Downey Jr, Robert Downey Junior
+~/MCU/1. Phase One/The Incredible Hulk # (June 13, 2008) # Marvel Cinematic Universe, Edward Norton, Liv Tyler
+~/MCU/1. Phase One/Iron Man 2 # (May 7, 2010) # Marvel Cinematic Universe, Robert Downey Jr, Robert Downey Junior
+~/MCU/1. Phase One/Thor # (May 6, 2011) # Marvel Cinematic Universe, Chris Hemsworth, Natalie Portman, Tom Hiddleston.
+~/MCU/1. Phase One/Captain America: The First Avenger # (July 22, 2011) # Marvel Cinematic Universe, Chris Evans, Sebastian Stan
+~/MCU/1. Phase One/Marvel's The Avengers # (May 4, 2012) # Marvel Cinematic Universe, Robert Downey Jr, Robert Downey Junior, Chris Hemsworth, Chris Evans, Tom Hiddleston, Scarlett Johnson, Scarlett Johansson, Elizabeth Olsen, Mark Ruffalo, Samuel L. Jackson, Samuel Jackson, Don Cheadle, Sebastian Stan
+~/MCU/2. Phase Two/Iron Man 3 # (May 3, 2013) # Marvel Cinematic Universe # Marvel Cinematic Universe, Robert Downey Jr, Robert Downey Junior, Don Cheadle
+~/MCU/2. Phase Two/Thor: The Dark World # (November 11, 2013) # Marvel Cinematic Universe # Marvel Cinematic Universe, Chris Hemsworth, Natalie Portman, Tom Hiddleston.
+~/MCU/2. Phase Two/Captain America: The Winter Solider # (April 4, 2014) # Marvel Cinematic Universe # Marvel Cinematic Universe, Chris Evans, Sebastian Stan
+~/MCU/2. Phase Two/Guardians of the Galaxy # (August 1, 2014) # Marvel Cinematic Universe # Marvel Cinematic Universe
+~/MCU/2. Phase Two/Avengers: Age of Ultron # (May 1, 2015) # Marvel Cinematic Universe # Marvel Cinematic Universe
+~/MCU/2. Phase Two/Ant-Man # (July 17, 2015) # Marvel Cinematic Universe
+~/MCU/3. Phase Three/Captain America: Civil War # (May 6, 2016) # Marvel Cinematic Universe
+~/MCU/3. Phase Three/Doctor Strange # (November 4, 2016) # Marvel Cinematic Universe
+~/MCU/3. Phase Three/Guardians of the Galaxy Vol.2 # (May 5, 2017) # Marvel Cinematic Universe
+~/MCU/3. Phase Three/Spider-Man: Homecoming # (July 7, 2017) # Marvel Cinematic Universe, Robert Downey Jr, Robert Downey Junior, Tom Holland
+~/MCU/3. Phase Three/Thor : Ragnarok # (November 3, 2017) # Marvel Cinematic Universe
+~/MCU/3. Phase Three/Black Panther # (February 16, 2018) # Marvel Cinematic Universe
+~/MCU/3. Phase Three/Avengers: Infinity War # (April 27, 2018) # Marvel Cinematic Universe
+~/MCU/3. Phase Three/Ant-Man and the Wasp # (July 6, 2018) # Marvel Cinematic Universe
+~/MCU/3. Phase Three/Captain Marvel # (March 8, 2019) # Marvel Cinematic Universe
+~/MCU/3. Phase Three/Avengers: Endgame # (April 26, 2019) # Marvel Cinematic Universe
+~/MCU/3. Phase Three/Spider-Man: Far From Home # (July 2, 2019) # Marvel Cinematic Universe
+~/DCEU/Man of Steel (June 14, 2013) # DC Extended Universe, Zack Snyder
+~/DCEU/Batman vs Superman: Dawn of Justice # (March 25, 2016) # DC Extended Universe, Zack Snyder
+~/DCEU/Suicide Squad # (August 5, 2016) # DC Extended Universe, David Ayer
+~/DCEU/Wonder Woman # (June 2, 2017) # DC Extended Universe, Patty Jenkins
+~/DCEU/Justice League # (November 17, 2017) # DC Extended Universe, Zack Snyder
+~/DCEU/Aquaman # (December 21, 2018) # DC Extended Universe, James Wan
+~/DCEU/Shazam! # (April 5, 2019) # DC Extended Universe, David F. Sandberg
+~/Scientific Fiction/Alita: Battle Angel # (January 31, 2019) #20 Century Fox, 20 Fox Century, Cartoon, 3D, Animation
+~/Short Film Series/Hunger Games/The Hunger Games # (March 12, 2012) # Lionsgate, liongate, jennifier lawrence
+~/Short Film Series/Hunger Games/The Hunger Games: # Catching Fire (November 11, 2013) # Lionsgate, liongate, jennifier lawrence
+~/Short Film Series/Hunger Games/The Hunger Games: Mockingjay - Part 1 # (November 10, 2014) # Lionsgate, liongate, jennifier lawrence
+~/Short Film Series/Hunger Games/The Hunger Games: Mockingjay - Part 2 # (November 4, 2015) # Lionsgate, liongate, jennifier lawrence
